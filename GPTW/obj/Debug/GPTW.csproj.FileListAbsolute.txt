@@ -1,0 +1,10 @@
+D:\work\GPTW\GPTW\bin\GPTW.dll.config
+D:\work\GPTW\GPTW\bin\GPTW.dll
+D:\work\GPTW\GPTW\bin\GPTW.pdb
+D:\work\GPTW\GPTW\obj\Debug\GPTW.csproj.AssemblyReference.cache
+D:\work\GPTW\GPTW\obj\Debug\GPTW.csproj.CoreCompileInputs.cache
+D:\work\GPTW\GPTW\obj\Debug\GPTW.dll
+D:\work\GPTW\GPTW\obj\Debug\GPTW.pdb
+D:\work\GPTW\GPTW\bin\Newtonsoft.Json.dll
+D:\work\GPTW\GPTW\bin\Newtonsoft.Json.xml
+D:\work\GPTW\GPTW\obj\Debug\GPTW.csproj.CopyComplete
